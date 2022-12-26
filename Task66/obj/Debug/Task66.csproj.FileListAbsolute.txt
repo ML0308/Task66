@@ -1,0 +1,7 @@
+C:\Users\oksan\source\repos\Task66\Task66\bin\Debug\Task66.exe.config
+C:\Users\oksan\source\repos\Task66\Task66\bin\Debug\Task66.exe
+C:\Users\oksan\source\repos\Task66\Task66\bin\Debug\Task66.pdb
+C:\Users\oksan\source\repos\Task66\Task66\obj\Debug\Task66.csproj.AssemblyReference.cache
+C:\Users\oksan\source\repos\Task66\Task66\obj\Debug\Task66.csproj.CoreCompileInputs.cache
+C:\Users\oksan\source\repos\Task66\Task66\obj\Debug\Task66.exe
+C:\Users\oksan\source\repos\Task66\Task66\obj\Debug\Task66.pdb
